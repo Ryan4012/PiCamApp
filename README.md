@@ -20,7 +20,7 @@ I wanted to gain hands-on experience building a full-stack system that bridges m
 - Stream live video over the network with low latency
 - Design a system that works remotely via VPN
 
-# App Images
+## App Images
 <table>
   <tr>
     <th>VPN Check</th>
@@ -46,7 +46,7 @@ I wanted to gain hands-on experience building a full-stack system that bridges m
   
 </table>
 
-# Technology Stack
+## Technology Stack
 **Hardware** -
 - Raspberry Pi 5
 - USB Camera
