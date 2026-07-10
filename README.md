@@ -20,6 +20,32 @@ I wanted to gain hands-on experience building a full-stack system that bridges m
 - Stream live video over the network with low latency
 - Design a system that works remotely via VPN
 
+# App Images
+<table>
+  <tr>
+    <th>VPN Check</th>
+    <th>Home Page</th>
+    <th>Camera Page</th>
+    
+  </tr>
+  <tr>
+    <td><img src="./App Images/AppStartUpPrompt.png" alt="Architecture Diagram" width="200" /></td>
+    <td><img src="./App Images/AppHomePage.png" alt="Network Diagram" width="200" /></td>
+    <td><img src="./App Images/AppCameraPage.png" alt="Network Diagram" width="200" /></td>
+  </tr>
+
+  <th>Motion Log</th>
+  <th>Stats Loading</th>
+  <th>Stats Page</th>
+
+  <tr>
+    <td><img src="./App Images/AppMotionLogSection.png" alt="Network Diagram" width="200" /></td>
+    <td><img src="./App Images/AppStatsLoading.png" alt="Network Diagram" width="200" /></td>
+    <td><img src="./App Images/AppStatsPage.png" alt="Network Diagram" width="200" /></td>
+  </tr>
+  
+</table>
+
 # Technology Stack
 **Hardware** -
 - Raspberry Pi 5
